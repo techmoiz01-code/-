@@ -1,0 +1,6 @@
+{
+  "name": "Watch This Space Group - Expressive Arts Platform",
+  "description": "The institutional blended digital-and-physical creative curriculum platform scaling hands-on expressive arts learning across Scottish and UK primary schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
